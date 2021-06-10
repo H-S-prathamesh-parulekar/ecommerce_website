@@ -1,0 +1,79 @@
+Created by: Prathamesh Harishchandra Parulekar, SYMCA Roll No. 182010021
+-----------------------------------------------------------------------------------------------------
+Topic: Shopping Cart  E-Commerce website
+
+------------------------------------------------------------------------------------------------------
+
+feature of project
+
+seller side:
+1. Each individual seller can register his own profile by sign up
+2. Seller can create/view/update/delete his product from his own database by login his own account
+3 .Seller can edit his profile
+
+
+
+customer  side:
+1. Each individual Customer can register his own profile by sign up
+2. Customer can select/remove product from cart
+3 Customer can edit his profile
+4.Without login any account customer can select product.but only after  login he can purchase it.
+
+cart:
+1.It shows no of items selected as well as total amount.
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
+
+Tools used:
+
+Made using: HTML, CSS,Bootstrap 3,php,Javascript, JQuery, Ajax
+Softwares required: Xampp or Wamp or Lamp, Notepad++ (for writing the code), PHPMyAdmin (for database)
+
+
+
+
+---------------------------------------------------------------------------------------------------
+How to run the Online Shopping Portal using PHP and MySQL
+---------------------------------------------------------------------------------------------------
+1. Download the  zip file
+
+2. Extract the file and copy shopping folder
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+4. Open PHPMyAdmin (http://localhost/a1)
+
+5. Database and database  tables is created automatically once the file run on browser
+------------------------------------------------------------------------------------------------------
+
+
+
+
+1.Data can be added manually for customer ,seller ,product .
+
+2.Else sql file is also attached in which all data is  given
+
+
+
+------------------------------------------------------------------------------------------------------
+For Quick access:
+
+Login Details For customer :
+
+Username : prathemesh@gmail.com
+
+Password : Prathamesh@2408
+
+
+Login Details for seller :
+
+User Name : prathemesh@gmail.com
+
+Password :  Prathamesh@2408
+
+------------------------------------------------------------------------------------------------------
+
